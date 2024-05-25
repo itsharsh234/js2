@@ -1,2 +1,3 @@
 # js2
-It is a JavaScript  repository no.2
+helllo 
+it is normal js respositery 
